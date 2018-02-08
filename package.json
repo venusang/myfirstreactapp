@@ -1,0 +1,25 @@
+{
+  "name": "myfirstreactapp",
+  "version": "1.0.0",
+  "description": "My First React app - WOOT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusang/myfirstreactapp.git"
+  },
+  "keywords": [
+    "myfirstreactapp"
+  ],
+  "author": "Venus Ang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusang/myfirstreactapp/issues"
+  },
+  "homepage": "https://github.com/venusang/myfirstreactapp#readme",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
